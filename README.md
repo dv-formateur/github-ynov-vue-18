@@ -1,6 +1,10 @@
 # github-ynov-vue
 
 ## Project setup
+Projet réaliser dans le cadre d'un cours de dev web. 
+App VueJs avec UIkit pour la partie design.
+
+## Project setup
 ```
 npm install
 ```
